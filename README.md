@@ -1,8 +1,8 @@
 
 大用 庫智 (教員)
 :入力中アイコン:  19:34
-![image](![gold crawn](https://github.com/nnm213/nnm213/assets/169993567/4f4e1915-2a49-40b2-a4ec-3c08d77618d5)
-)
+![gold crawn](https://github.com/nnm213/nnm213/assets/169993567/4f4e1915-2a49-40b2-a4ec-3c08d77618d5)
+
 # はじめに
 本ページは書籍[「作りながら丁寧に学ぶPythonプログラミング入門」](http://www.kgup.jp/book/b603529.html)のサポートページです。
 本ページでは、書籍で利用するデータやインストール方法、プログラミング初心者をサポートする内容を紹介します。
